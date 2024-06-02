@@ -25,24 +25,37 @@ The dashboard and list update in real-time as changes are made.
 
 
 Technologies Used
+
+
 **React
+
 React Router
+
 Axios
+
 Tailwind CSS
+
 JSONPlaceholder (for mock API)**
+
+
 
 
 Installation:
 **Clone the repository**
-git clone https://github.com/yourusername/employee-management-system.git
+
+
+git clone [https://github.com/yourusername/employee-management-system.git](https://github.com/Sandesh225/Employee-Directory.git)
 
 **Navigate to the project directory**
+
 cd employee-management-system
 
 **Install dependencies**
+
 npm i axios react-router-dom  react-toastify
 
 **Start the development server**
+
 npm run dev
 
 
