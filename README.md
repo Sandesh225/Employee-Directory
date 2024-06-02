@@ -26,16 +26,15 @@ The dashboard and list update in real-time as changes are made.
 
 Technologies Used
 
-
-**React
-
-React Router
+React 
 
 Axios
 
 Tailwind CSS
 
-JSONPlaceholder (for mock API)**
+React Router
+
+JSONPlaceholder (for mock API)
 
 
 
