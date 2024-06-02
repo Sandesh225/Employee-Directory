@@ -1,0 +1,2 @@
+# Employee-Directory
+ The Employee Management System is a React application that allows users to manage employee data. It features a dynamic dashboard that displays the total number of employees, an employee list with search and delete functionality, and forms to add and edit employee details. The system ensures live updates and seamless navigation, enhancing the user experience in managing employee information efficiently.
