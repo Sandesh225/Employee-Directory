@@ -1,22 +1,52 @@
-# Employee-Directory
- The Employee Management System is a React application designed for efficient management of employee data. 
- Key features include:
-Dynamic Dashboard: Displays the total number of employees with real-time updates.
-Employee List: Allows users to view, search, and delete employee records easily.
-Add/Edit Employee Forms: Forms to add new employees or edit existing employee details, with changes immediately reflected in the list.
-Seamless Navigation: Intuitive navigation ensures a smooth user experience.
-Built with React, React Router, Axios, and Tailwind CSS, the system utilizes JSONPlaceholder for mock API data. The application provides a robust and user-friendly interface for managing employee information efficiently.
+Employee Management System
 
-Usage
-Dashboard: View total employee count.
-Employee List: Manage employee records with search and delete functions.
-Add/Edit Employee: Update employee information with instant list updates.
 
+Overview
+The Employee Management System is a React application designed to streamline the management of employee data. Users can view, search, add, edit, and delete employee records with a user-friendly interface and real-time update
+
+
+Features
+
+
+Dashboard:
+Displays the total number of employees and provides navigation links.
+
+Employee List: 
+Allows users to search and delete employee records.
+
+Add Employee:
+Form to add new employees, with instant updates to the list.
+
+Edit Employee:
+Form to edit existing employee details.
+
+Live Updates: 
+The dashboard and list update in real-time as changes are made.
 
 
 Technologies Used
-React
+**React
 React Router
 Axios
 Tailwind CSS
-JSONPlaceholder (for mock API)
+JSONPlaceholder (for mock API)**
+
+
+Installation:
+**Clone the repository**
+git clone https://github.com/yourusername/employee-management-system.git
+
+**Navigate to the project directory**
+cd employee-management-system
+
+**Install dependencies**
+npm i axios react-router-dom  react-toastify
+
+**Start the development server**
+npm run dev
+
+
+
+
+
+
